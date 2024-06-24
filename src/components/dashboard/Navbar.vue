@@ -23,9 +23,9 @@ import NavbarItem from './NavbarItem.vue';
             Premium
             </h3>
             <div class=" mt-7 w-full h-fit flex flex-col justify-center items-center gap-3">
-                <h5 class="text-white opacity-50">feature 1</h5>
-                <h5 class="text-white opacity-50">feature 2</h5>
-                <h5 class="text-white opacity-50">feature 3</h5>
+                <h4 class="text-white opacity-50">feature 1</h4>
+                <h4 class="text-white opacity-50">feature 2</h4>
+                <h4 class="text-white opacity-50">feature 3</h4>
             </div>
 
         </div>

@@ -1,8 +1,11 @@
 h3{
     @apply text-3xl font-md text-primary ;
 }
-h5{
+h4{
     @apply text-xl font-md text-secondary;
+}
+h5 {
+    @apply text-base font-md text-primary ;
 }
 h6{
     @apply text-sm font-md text-secondary ;
