@@ -4,5 +4,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
 ![image](https://github.com/MianajiAli/vue-dashbord/assets/87234097/7721fb1c-b41b-42b5-bacc-7e57c63dd110)
-![Uploading image.png…]()
-
+![image](https://github.com/MianajiAli/vue-dashbord/assets/87234097/d6c4c077-ae89-4adf-88ea-1d7ee37d0cf3)
