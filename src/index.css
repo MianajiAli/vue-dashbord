@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Rubik */
+@font-face {
+  font-family: 'MainFont';
+  src: url('/rubik/Rubik-VariableFont_wght.ttf') format('woff2');
+  font-weight: 100 900;
+  font-optical-sizing: auto;
+  font-style: normal;
+  unicode-range: U+0000-007F;
+}
+
+/* VazirMatn */
+@font-face {
+  font-family: 'MainFont';
+  src: url('/vazir/webfonts/Vazirmatn[wght].woff2') format('woff2 supports variations'),
+    url('/vazir/webfonts/Vazirmatn[wght].woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF, U+10E60-10E7F;
+  }
+  

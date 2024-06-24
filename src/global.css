@@ -1,0 +1,15 @@
+h3{
+    @apply text-3xl font-md text-primary ;
+}
+h5{
+    @apply text-xl font-md text-secondary;
+}
+h6{
+    @apply text-sm font-md text-secondary ;
+}
+c{
+   @apply text-accent ;
+}
+.smooth{
+    transition: all 200ms ease-in;
+}
