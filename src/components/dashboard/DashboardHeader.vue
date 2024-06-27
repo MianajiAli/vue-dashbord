@@ -1,5 +1,5 @@
 <template>
-    <div class="flex justify-between items-center h-[8rem]">
+    <div class="flex flex-wrap justify-between items-center h-[8rem]">
         <div>
             <h3>Hello Trisha</h3>
             <h6>Welcome to the HR management system</h6>
